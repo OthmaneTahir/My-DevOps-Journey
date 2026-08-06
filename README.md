@@ -63,7 +63,7 @@ My-DevOps-Journey/
 
 | # | File | Description |
 |---|------|-------------|
-| 00 | [What is DevOps & How to Start](./phase1/00-what-is-devops-and-how-to-start.md) | Intro to DevOps culture, CI/CD, and the core skills every DevOps engineer needs |
+| 00 | [What is DevOps & How to Start](phase-1/00-what-is-devops-and-how-to-start.md) | Intro to DevOps culture, CI/CD, and the core skills every DevOps engineer needs |
 
 ---
 
