@@ -3,8 +3,9 @@
 # 📗 01 — Getting Started with Git
  
 ![Phase](https://img.shields.io/badge/Phase-1-blue?style=flat-square)
-![Topic](https://img.shields.io/badge/Topic-Fundamentals-green?style=flat-square)
-![Level](https://img.shields.io/badge/Level-Beginner-yellow?style=flat-square)
+![Topic](https://img.shields.io/badge/Topic-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Level](https://img.shields.io/badge/Level-Beginner→Daily%20Reference-yellow?style=flat-square)
+
  
 </div>
 
