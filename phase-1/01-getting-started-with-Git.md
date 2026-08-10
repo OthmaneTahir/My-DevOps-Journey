@@ -8,7 +8,7 @@
 **A practical, no-fluff Git reference — the commands you'll actually use day to day.**
  
 </div>
----
+
  
 ## 📚 Table of Contents
  
