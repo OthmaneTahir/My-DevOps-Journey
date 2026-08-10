@@ -63,8 +63,8 @@ My-DevOps-Journey/
 
 | # | File | Description |
 |---|------|-------------|
-| 00 | [What is DevOps & How to Start](./phase1/00-what-is-devops-and-how-to-start.md) | Intro to DevOps culture, CI/CD, and the core skills every DevOps engineer needs |
-| 01 | [Getting Started with Git](./phase1/01-getting-started-with-git.md) | A practical, production-focused Git reference: repos, staging, branching, undoing changes, rebase vs merge, and a daily cheat sheet |
+| 00 | [What is DevOps & How to Start](phase1/00-what-is-devops-and-how-to-start.md) | Intro to DevOps culture, CI/CD, and the core skills every DevOps engineer needs |
+| 01 | [Getting Started with Git](phase1/01-getting-started-with-git.md) | A practical, production-focused Git reference: repos, staging, branching, undoing changes, rebase vs merge, and a daily cheat sheet |
 
 ---
 
